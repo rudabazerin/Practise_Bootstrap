@@ -1,0 +1,12 @@
+.my_form{
+    padding: 15px;
+    box-shadow: 2px 2px 8px rgb(0,0,0,0.5);
+}
+
+.custom-nav{
+    background-color: #3b988bd1;
+}
+.holder{
+    height: 300px;
+    overflow: auto;
+}
